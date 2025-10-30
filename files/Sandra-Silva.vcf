@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sandra Silva
+N:;Sandra Silva;;;
+TITLE:Commercial Director
+TEL;TYPE=CELL:+351916628489
+EMAIL;TYPE=INTERNET:sandra.silva@vipex.pt
+URL:https://Vipex25.github.io/sandra-silva/
+item1.URL;type=pref:https://www.linkedin.com/in/sandra-silva-666a5026/
+item1.X-ABLabel:LinkedIn
+item2.URL;type=pref:https://www.vipex.pt/en/home
+item2.X-ABLabel:Website
+item3.URL;type=pref:https://maps.app.goo.gl/QeAVZR8oF2E2f2Xu5
+item3.X-ABLabel:Location
+END:VCARD
